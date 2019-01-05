@@ -6,5 +6,5 @@ a UIGraphicsGetCurrentContext to draw the shape.
 
 ## Example 
 
-![alt text](https://github.com/DavidPerezP124/Images_examples/blob/master/TrapezoidUIView.png=160 x 90)
+![alt text](https://github.com/DavidPerezP124/Images_examples/blob/master/TrapezoidUIView.png =160x90)
 
